@@ -1,0 +1,43 @@
+
+.hfmain{
+    width: 1060px;
+    height: 230px;
+    display: flex; 
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.hf1{
+    margin-top: 120px;
+    text-align: center;
+    font-family: Viga, Arial, Tahoma, sans-serif;
+}
+
+.hf2{
+    margin-top: 20px;
+    text-align: center;
+}
+
+.hf3{
+    margin-top: 120px;
+    text-align: center;
+}
+
+b{
+    font-weight: 800;
+    color: #0095eb;
+}
+
+h4{
+    margin-top: 21px;
+    margin-bottom: 21px;
+}
+
+h5{
+    font-size: 20px;
+    line-height: 20px;
+    font-weight: 500;
+    color: #fff;
+    letter-spacing: 5px;
+}

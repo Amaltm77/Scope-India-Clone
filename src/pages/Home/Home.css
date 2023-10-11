@@ -1,0 +1,14 @@
+#footerhd{
+    background-repeat: repeat-x;
+    background-position: center top;
+    background-image: url('../Home/footerbg.png');
+    background-size: cover;
+    height: 900px;
+}
+
+#footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 75px;
+}

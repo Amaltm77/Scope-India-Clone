@@ -1,0 +1,60 @@
+.contactwrapper {
+    padding-bottom: 150px;
+    background-color: #051a69;
+    background-image: url(https://scopeindia.org/images/snowpark-skis-headerbg2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1250px;
+    background-position: center bottom;
+    position: relative;
+    padding-top: 250px;
+}
+h1, h2, h3, h4{
+    font-family: "Viga", Arial, Tahoma, sans-serif;
+}
+
+.wrapperc{
+    width: 1050px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+/* .contacth1{
+    font-size: 55px;
+    line-height: 65px;
+    font-weight: 500;
+    letter-spacing: 0px;
+} */
+
+.contacth2{
+    color: white;
+    font-size: 34px;
+    margin-bottom: 15px;
+    line-height: 42px;
+    font-weight: bold;
+    letter-spacing: 0px;
+    margin-top: 15px;
+}
+
+.starimgcontact{
+    margin-top: 20px;
+    height: 115px;
+}
+
+.afterwrappercontact{
+    padding-top: 30px;
+    padding-bottom: 100px;
+    background-color: #051a69;
+}
+
+.st-current{
+    outline: rgb(108, 99, 255) solid 1px !important;
+    color: white;
+    font-size: 34px;
+    margin-bottom: 15px;
+    line-height: 42px;
+    font-weight: bold;
+    letter-spacing: 0px;
+    margin-top: 15px;
+}

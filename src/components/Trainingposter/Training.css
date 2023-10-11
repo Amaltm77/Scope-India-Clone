@@ -1,0 +1,55 @@
+#training{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;  
+        width: 1060px;
+        margin-left: auto;
+        margin-right: auto;
+}
+.chead{
+    text-align: center;
+}
+
+.chead h1{
+margin-top: 200px;
+margin-bottom: 15px;
+}
+
+.chead h6{
+    margin-bottom: 20px;
+    color: white;
+    margin-left: 0px;
+}
+
+.trating{
+    margin-top: 20px;
+    margin-left: -20px;
+    color: white;
+}
+
+h1{
+    color: #fbba02;
+    font-size: 55px;
+    line-height: 65px;
+    font-weight: 600;
+    letter-spacing: 0px;
+    font-family: "Viga", Arial, Tahoma, sans-serif;
+    margin-bottom: 15px;
+}
+
+h6 {
+    font-size: 20px;
+    line-height: 25px;
+    font-weight: bold;
+    letter-spacing: 0px;
+    color: white;
+    font-family:"Viga", Arial, Tahoma, sans-serif;
+}
+
+p {
+    margin: 0 0 15px;
+    text-align: justify;
+    font-size: 15px;
+    text-align: center;
+}

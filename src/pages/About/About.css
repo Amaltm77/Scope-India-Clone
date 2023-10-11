@@ -1,0 +1,124 @@
+.aboutwrapper {
+    padding-bottom: 150px;
+    background-color: #051a69;
+    background-image: url(https://scopeindia.org/images/snowpark-skis-headerbg2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1250px;
+    background-position: center bottom;
+    position: relative;
+    padding-top: 250px;
+}
+
+.innerwrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.partial {
+    width: 1035px;
+    align-items: center;
+    text-align: center;
+}
+
+.abouth2 {
+    font-size: 29px;
+    line-height: 36px;
+    font-weight: 500;
+    letter-spacing: 0px;
+    color: white;
+    font-family: Viga, Arial, Tahoma, sans-serif;
+    margin-bottom: 15px;
+    justify-self: center;
+    margin: 15px;
+}
+
+.aboutp{
+    color: white;
+    margin: 0 0 15px;
+    text-align: justify;
+    font-size: 15px !important;
+    font: inherit;
+    vertical-align: baseline;
+}
+
+.outerwrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    margin-left: 670px;
+}
+
+.wrapperbottom{
+    width: 1035px;
+}
+
+.about5starimg{
+    width: 30%;
+}
+
+.aboutp2{
+    color: white;
+    margin: 0 0 15px;
+    text-align: justify;
+    font-size: 15px!important;
+    font: inherit;
+    vertical-align: baseline;
+    margin-left: 60px;
+    margin-top: 15px;
+}
+
+.aboutbtndiv{
+    width: 1035px;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: space-between;
+}
+
+.buttonabout{
+    height: 53px;
+    display: block;
+    margin-top: 25px;
+    float: left;
+    position: relative;
+    z-index: 2;
+    font-size: 20px;
+    width: 100%;
+}
+
+.footer {
+    width: 100%;
+    box-sizing: border-box;
+}
+
+
+.footerh{
+    padding-bottom: 150px;
+    width: 100%;
+    background-color: #051a6b;
+    background-image: url(https://scopeindia.org/images/snowpark-home-slider-background.jpg);
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    background-size: cover;
+}
+
+.outerfooterhead{
+    background-image: url(https://scopeindia.org/images/snowpark-home-slide-decoration-bottomm.png);
+    height: 127px;
+}
+
+.mainfooter{
+    background-color: #021b5b;
+    width: 100%;
+    margin-top: -150px;
+}
+
+.innerfootercontent{
+    width: 1050px;
+    margin-top: 150px;
+    margin-bottom: 150px;
+    margin-left: auto;
+    margin-right: auto;
+}

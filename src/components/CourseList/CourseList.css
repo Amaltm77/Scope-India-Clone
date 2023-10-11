@@ -1,0 +1,55 @@
+.container {
+    max-width: 1060px;
+    margin: 0 auto;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap; /* allows the items to wrap as needed */
+    align-items: center;
+}
+
+.row {
+    display: flex; /* makes the row a flex container */
+    justify-content: space-between; /* spaces the boxes evenly */
+    width: 100%;
+    padding: 10px;
+    margin: 5px;
+}
+
+.box{
+    width: calc(33.33% - 10px); /* each box will take up roughly a third of the container width, accounting for margins */
+    height: 45px;
+    margin: 5px; 
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    background-color: white;
+    -webkit-box-shadow: 19px 17px 21px 10px rgba(0,0,0,0.76);
+    -moz-box-shadow: 19px 17px 21px 10px rgba(0,0,0,0.76);
+}
+
+.boxl{
+    width: calc(33.33% - 10px); /* each box will take up roughly a third of the container width, accounting for margins */
+    height: 90px;
+    margin: 5px; 
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    background-color: white;
+    -webkit-box-shadow: 19px 17px 21px 10px rgba(0,0,0,0.76);
+    -moz-box-shadow: 19px 17px 21px 10px rgba(0,0,0,0.76);
+}
+
+
+h3{
+    font-size: 31px;
+    line-height: 29px;
+    font-weight: 700;
+    letter-spacing: 0px;
+    font-family: "Viga", Arial, Tahoma, sans-serif;
+    color: white;
+}
+
+h6 {
+    color: blue;
+  }
