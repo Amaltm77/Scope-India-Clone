@@ -7,6 +7,7 @@ import { AiFillPhone } from "react-icons/ai";
 import { HiMail } from "react-icons/hi";
 import { FaLink } from "react-icons/fa";
 import { FaMapLocation } from "react-icons/fa6";
+import Footer from './../../components/Footer/Footer';
 
 function Contact() {
   return (
@@ -38,34 +39,122 @@ function Contact() {
               <div className="thumnail">
                 <ul>
                   <li><h3>Technopark TVM, Kerala</h3></li>
-                  <li class="address" style={{ margin: '10px' }}>
+                  <li class="address" style={{ margin: '10px', color: 'white' }}>
                     <span class="icon"><IoLocationSharp color='white' />  </span>
                     <span class="address_wrapper">Opp. Technopark, Trivandrum, Kerala 695581</span>
                   </li>
-                  <li class="phone phone-1" style={{ margin: '10px' }}>
+                  <li class="phone phone-1" style={{ margin: '10px', color: 'white' }}>
                     <span class="icon"><AiFillPhone color='white' /></span>
                     <a class="footer_links" href="tel:+919745936073">9745936073</a>
                   </li>
-                  <li class="mail"style={{ margin: '10px' }}>
+                  <li class="mail" style={{ margin: '10px', color: 'white' }}>
                     <span class="icon"><HiMail color='white' /></span>
                     <a class="footer_links" href="mailto:info@scopeindia.org">technopark@scopeindia.org</a>
                   </li>
-                  <li class="www" style={{ margin: '10px' }}>
+                  <li class="www" style={{ margin: '10px', color: 'white' }}>
                     <span class="icon"><FaLink color='white' /></span>
                     <a class="footer_links" href="https://scopeindia.org/" title="A trusted IT Partner">www.scopeindia.org </a>
                   </li>
-                  <li class="www" style={{ margin: '10px' }}>
+                  <li class="www" style={{ margin: '10px', color: 'white' }}>
                     <span class="icon"><FaMapLocation color='white' /></span>
                     <a class="footer_links" href="https://g.page/r/CXbW6SZGeJPfEAE" title="SCOPE INDIA Google Map Location to Trivandrum, Kerala" target="_blank">Location Route Map </a>
                   </li>
                 </ul>
-                <br/>
+                <br />
               </div>
             </div>
-            <div className="col-md-6"></div>
-            <div className="col-md-6"></div>
-            <div className="col-md-6"></div>
+            <div className="col-md-6">
+              <div className="thumnail">
+                <ul>
+                  <li><h3>Technopark TVM, Kerala</h3></li>
+                  <li class="address" style={{ margin: '10px', color: 'white' }}>
+                    <span class="icon"><IoLocationSharp color='white' />  </span>
+                    <span class="address_wrapper">Opp. Technopark, Trivandrum, Kerala 695581</span>
+                  </li>
+                  <li class="phone phone-1" style={{ margin: '10px', color: 'white' }}>
+                    <span class="icon"><AiFillPhone color='white' /></span>
+                    <a class="footer_links" href="tel:+919745936073">9745936073</a>
+                  </li>
+                  <li class="mail" style={{ margin: '10px', color: 'white' }}>
+                    <span class="icon"><HiMail color='white' /></span>
+                    <a class="footer_links" href="mailto:info@scopeindia.org">technopark@scopeindia.org</a>
+                  </li>
+                  <li class="www" style={{ margin: '10px', color: 'white' }}>
+                    <span class="icon"><FaLink color='white' /></span>
+                    <a class="footer_links" href="https://scopeindia.org/" title="A trusted IT Partner">www.scopeindia.org </a>
+                  </li>
+                  <li class="www" style={{ margin: '10px', color: 'white' }}>
+                    <span class="icon"><FaMapLocation color='white' /></span>
+                    <a class="footer_links" href="https://g.page/r/CXbW6SZGeJPfEAE" title="SCOPE INDIA Google Map Location to Trivandrum, Kerala" target="_blank">Location Route Map </a>
+                  </li>
+                </ul>
+                <br />
+              </div>
+            </div>
+            <div className="col-md-6"> <div className="thumnail">
+              <ul>
+                <li><h3>Technopark TVM, Kerala</h3></li>
+                <li class="address" style={{ margin: '10px', color: 'white' }}>
+                  <span class="icon"><IoLocationSharp color='white' />  </span>
+                  <span class="address_wrapper">Opp. Technopark, Trivandrum, Kerala 695581</span>
+                </li>
+                <li class="phone phone-1" style={{ margin: '10px', color: 'white' }}>
+                  <span class="icon"><AiFillPhone color='white' /></span>
+                  <a class="footer_links" href="tel:+919745936073">9745936073</a>
+                </li>
+                <li class="mail" style={{ margin: '10px', color: 'white' }}>
+                  <span class="icon"><HiMail color='white' /></span>
+                  <a class="footer_links" href="mailto:info@scopeindia.org">technopark@scopeindia.org</a>
+                </li>
+                <li class="www" style={{ margin: '10px', color: 'white' }}>
+                  <span class="icon"><FaLink color='white' /></span>
+                  <a class="footer_links" href="https://scopeindia.org/" title="A trusted IT Partner">www.scopeindia.org </a>
+                </li>
+                <li class="www" style={{ margin: '10px', color: 'white' }}>
+                  <span class="icon"><FaMapLocation color='white' /></span>
+                  <a class="footer_links" href="https://g.page/r/CXbW6SZGeJPfEAE" title="SCOPE INDIA Google Map Location to Trivandrum, Kerala" target="_blank">Location Route Map </a>
+                </li>
+              </ul>
+              <br />
+            </div></div>
+            <div className="col-md-6">
+              <div className="thumnail">
+                <ul>
+                  <li><h3>Technopark TVM, Kerala</h3></li>
+                  <li class="address" style={{ margin: '10px', color: 'white' }}>
+                    <span class="icon"><IoLocationSharp color='white' />  </span>
+                    <span class="address_wrapper">Opp. Technopark, Trivandrum, Kerala 695581</span>
+                  </li>
+                  <li class="phone phone-1" style={{ margin: '10px', color: 'white' }}>
+                    <span class="icon"><AiFillPhone color='white' /></span>
+                    <a class="footer_links" href="tel:+919745936073">9745936073</a>
+                  </li>
+                  <li class="mail" style={{ margin: '10px', color: 'white' }}>
+                    <span class="icon"><HiMail color='white' /></span>
+                    <a class="footer_links" href="mailto:info@scopeindia.org">technopark@scopeindia.org</a>
+                  </li>
+                  <li class="www" style={{ margin: '10px', color: 'white' }}>
+                    <span class="icon"><FaLink color='white' /></span>
+                    <a class="footer_links" href="https://scopeindia.org/" title="A trusted IT Partner">www.scopeindia.org </a>
+                  </li>
+                  <li class="www" style={{ margin: '10px', color: 'white' }}>
+                    <span class="icon"><FaMapLocation color='white' /></span>
+                    <a class="footer_links" href="https://g.page/r/CXbW6SZGeJPfEAE" title="SCOPE INDIA Google Map Location to Trivandrum, Kerala" target="_blank">Location Route Map </a>
+                  </li>
+                </ul>
+                <br />
+              </div>
+            </div>
           </div>
+            
+        </div>
+          <div className="closer"></div>
+      </div>
+      <div className="footerabout">
+        <div className="inneraboutfooter">
+        <div className="container ">
+        <Footer/>
+        </div>
         </div>
       </div>
     </>
