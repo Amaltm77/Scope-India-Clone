@@ -35,7 +35,7 @@ h2{
     background-repeat: no-repeat;
     background-position: center top;
     background-size: cover;
-    width: 100%;
+    width: 1060px;
     zoom: 1;
     float: left;
     position: relative;
@@ -44,4 +44,42 @@ h2{
     border: 0;
     font: inherit;
     vertical-align: baseline;
+    display: flex;
+    text-align: left;
+    font-weight: bold;
+}
+
+.inputformleft {
+    width: 490px;
+    height: 880px;
+}
+
+.inputformright{
+    width: 490px;
+    height: 880px;
+}
+
+label{
+    display: inline-block;
+    max-width: 100%;
+    margin-bottom: 5px;
+    font-weight: 700;
+    margin-top: 5px;
+
+}
+
+.column_column ul li, .column_helper ul li, .column_visual ul li, .mfn-acc ul li, .ui-tabs-panel ul li, .the_content_wrapper ul li, .post-excerpt ul li {
+    list-style: disc outside;
+}
+
+.closer{
+    background-image: url(https://scopeindia.org/images/snowpark-home-slide-decoration-bottomm.png);
+    height: 127px;
+}
+
+.footerreg{
+    outline: rgb(108, 99, 255) solid 1px !important;
+    background-color: #051a69;
+    padding-top: 100px;
+    padding-bottom: 100px;
 }

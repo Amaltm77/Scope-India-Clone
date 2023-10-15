@@ -29,6 +29,7 @@ function Contact() {
       </div>
       <div className="afterwrappercontact">
         <Locations/>
+      <div className="closer"></div>
       </div>
       <div className="footerabout">
         <div className="inneraboutfooter">

@@ -125,7 +125,6 @@ export default function Locations() {
                     </div>
                 </div>
             </div>
-            <div className="closer"></div>
         </>
     )
 }

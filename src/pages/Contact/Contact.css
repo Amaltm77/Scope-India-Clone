@@ -48,6 +48,10 @@ h1, h2, h3, h4{
     background-color: #051a69;
 }
 
+.closer{
+    background-image: url(https://scopeindia.org/images/snowpark-home-slide-decoration-bottomm.png);
+    height: 127px;
+}
 
 .footerabout{
     background-color: #0095eb;
